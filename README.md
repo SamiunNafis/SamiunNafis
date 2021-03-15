@@ -1,4 +1,7 @@
-# 👋 Hi, I’m **@SamiunNafis**
+## 👋 Hi, I’m **@SamiunNafis**
+#### 🎓 I'm currently in highschool
+##### _Here are my few informations:_
+
 - 👀 I’m interested in 
     - **Java**
     - **JavaScript** 
