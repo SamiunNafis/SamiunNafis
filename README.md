@@ -26,7 +26,8 @@
     - [**Twitter**](https://twitter.com/samiunnafis)
     - [**Email**](mailto:luea099@gmail.com)
 
-![Most Active GitHub User Rank](https://enibdhv97zm33sz.m.pipedream.net)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=SamiunNafis)
 
 ![SamiunNafis GitHub Stat's](https://github-readme-stats.vercel.app/api?username=SamiunNafis&include_all_commits=true)
