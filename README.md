@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently in highschool
 - 👀 I’m interested in ![Java 7](https://img.shields.io/badge/Java-7-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg) ![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg) ![CSharp](https://img.shields.io/badge/C%23-blue.svg) ![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
-- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-green.svg) ![C++](https://img.shields.io/badge/C++-green.svg) ![C](https://img.shields.io/badge/C-green.svg)
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-green.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-green.svg)
 - 🏅 I've experience on ![Java 7](https://img.shields.io/badge/Java-7-grey.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg) ![PHP](https://img.shields.io/badge/PHP-grey.svg) ![HTML 5](https://img.shields.io/badge/HTML-5-grey.svg) ![CSS 3](https://img.shields.io/badge/CSS-3-grey.svg) ![Python 3](https://img.shields.io/badge/Python-3-grey.svg) ![CSharp](https://img.shields.io/badge/C%23-grey.svg)
 - 📫 How to reach me
     - [**Facebook**](https://www.facebook.com/SamiunNafis0)
