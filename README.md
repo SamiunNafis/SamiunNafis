@@ -1,38 +1,21 @@
-## 👋 Hi, I’m **@SamiunNafis**
-#### 🎓 I'm currently in highschool
-##### _Here are my few informations:_
+# 👋 Hi, How are you?
+<p> I’m **@SamiunNafis**</p>
 
-- 👀 I’m interested in 
-    - **Java**
-    - **JavaScript** 
-    - **Kotlin**
-    - **C#**
-    - **Python.**
-- 🌱 I’m currently learning 
-    - **Kotlin**
-    - **C++**
-    - **C**
-- 🏅 I've experience on 
-    - **Java**
-    - **JavaScript**
-    - **PHP**
-    - **HTML**
-    - **CSS**
-    - **Python**
-    - **C#**
+![](https://visitor-badge.glitch.me/badge?page_id=mrepol742)
+
+- 🎓 I'm currently in highschool
+- 👀 I’m interested in ![Java 7](https://img.shields.io/badge/Java-7-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg) ![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg) ![CSharp](https://img.shields.io/badge/C%23-blue.svg) ![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-green.svg) ![C++](https://img.shields.io/badge/C++-green.svg) ![C](https://img.shields.io/badge/C-green.svg)
+- 🏅 I've experience on ![Java 7](https://img.shields.io/badge/Java-7-grey.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg) ![PHP](https://img.shields.io/badge/PHP-grey.svg) ![HTML 5](https://img.shields.io/badge/HTML-5-grey.svg) ![CSS 3](https://img.shields.io/badge/CSS-3-grey.svg) ![Python 3](https://img.shields.io/badge/Python-3-grey.svg) ![CSharp](https://img.shields.io/badge/C%23-grey.svg)
 - 📫 How to reach me
     - [**Facebook**](https://www.facebook.com/SamiunNafis0)
     - [**Instagram**](https://instagram.com/samiunnafis)
     - [**Twitter**](https://twitter.com/samiunnafis)
     - [**Email**](mailto:luea099@gmail.com)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![](https://visitor-badge.glitch.me/badge?page_id=SamiunNafis)
-
 ![SamiunNafis GitHub Stat's](https://github-readme-stats.vercel.app/api?username=SamiunNafis&include_all_commits=true)
 
-![SamiunNafis Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&layout=compact)
+![SamiunNafis Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis)
 
 
 <!---
