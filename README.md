@@ -11,6 +11,7 @@
     - [**Facebook**](https://www.facebook.com/SamiunNafis0)
     - [**Instagram**](https://instagram.com/samiunnafis)
     - [**Twitter**](https://twitter.com/samiunnafis)
+    - [**LinkedIn**](https://linkedin.com/in/samiunnafis)
     - [**Email**](mailto:luea099@gmail.com)
 
 ![SamiunNafis GitHub Stat's](https://github-readme-stats.vercel.app/api?username=SamiunNafis&include_all_commits=true)
