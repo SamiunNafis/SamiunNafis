@@ -1,25 +1,34 @@
-# 👋 Hi, How are you?
-<p> I’m <b>@SamiunNafis</b></p>
+<p align="center">
+<a href="https://samiunnafis.github.io">
+  <img width="140" src="https://samiunnafis.github.io/favicon.png" /> 
+  </a> 
+  <h2 align="center">Samiun Nafis</h2>
+  <p align="center">uwu</p>
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=SamiunNafis)
+<p align="center">
+<a href="https://SamiunNafis.github.io">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=SamiunNafis"/> 
+  </a>  
+</p>
 
-- 🎓 I'm currently in highschool
-- 👀 I’m interested in ![Java 7](https://img.shields.io/badge/Java-7-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg) ![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg) ![CSharp](https://img.shields.io/badge/C%23-blue.svg) ![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
-- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-green.svg) ![Java](https://img.shields.io/badge/Java-green.svg) and ![React](https://img.shields.io/badge/React-blue.svg)
-- 🏅 I've experience on ![Java 7](https://img.shields.io/badge/Java-7-grey.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg) ![PHP](https://img.shields.io/badge/PHP-grey.svg) ![HTML 5](https://img.shields.io/badge/HTML-5-grey.svg) ![CSS 3](https://img.shields.io/badge/CSS-3-grey.svg) ![Python 3](https://img.shields.io/badge/Python-3-grey.svg) 
-- 📫 How to reach me
-    - [**Facebook**](https://www.facebook.com/SamiunNafis0)
-    - [**Instagram**](https://instagram.com/samiunnafis)
-    - [**Twitter**](https://twitter.com/samiunnafis)
-    - [**LinkedIn**](https://linkedin.com/in/samiunnafis)
-    - [**Email**](mailto:luea099@gmail.com)
+<p>
+<h2>🏆 Github Trophy </h2>
+<a href="https://SamiunNafis.github.io">
+<img src="https://github-profile-trophy.vercel.app/?username=SamiunNafis">
+</a>
+</p>
 
-![SamiunNafis GitHub Stat's](https://github-readme-stats.vercel.app/api?username=SamiunNafis&include_all_commits=true)
 
-![SamiunNafis Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis)
-
- 
-<!---
-SamiunNafis/SamiunNafis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+<h2>📊 More stats</h2>
+<a href="https://SamiunNafis.github.io">
+<img src="https://github-readme-stats.vercel.app/api?username=SamiunNafis&show_icons=true&include_all_commits=true&&count_private=true">
+</a>
+<a href="https://SamiunNafis.github.io">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&layout=compact&include_all_commits=true&&count_private=true&langs_count=20">
+</a>
+<a href="https://SamiunNafis.github.io">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiunNafis">
+</a>
+</p>
