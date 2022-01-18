@@ -1,34 +1,52 @@
 <p align="center">
 <a href="https://samiunnafis.github.io">
-  <img width="140" src="https://samiunnafis.github.io/favicon.png" /> 
+  <img alt="Detective Conan" src="https://tenor.com/view/comics-thinking-contemplate-hmm-gif-7761687.gif" /> 
   </a> 
-  <h2 align="center">Samiun Nafis</h2>
-  <p align="center">uwu</p>
+  <h2 align="center">Kudo-kun!</h2>
 </p>
 
 <p align="center">
 <a href="https://SamiunNafis.github.io">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=SamiunNafis"/> 
+    <img alt="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=SamiunNafis"/> 
   </a>  
 </p>
 
 <p>
-<h2>🏆 Github Trophy </h2>
+  
+🏆 **Github Trophy**
+  
 <a href="https://SamiunNafis.github.io">
-<img src="https://github-profile-trophy.vercel.app/?username=SamiunNafis">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=SamiunNafis">
 </a>
 </p>
 
 
 <p>
-<h2>📊 More stats</h2>
-<a href="https://SamiunNafis.github.io">
-<img src="https://github-readme-stats.vercel.app/api?username=SamiunNafis&show_icons=true&include_all_commits=true&&count_private=true">
+
+📊 **More Stats**
+  
+  
+<details>
+  <summary>Github Stats</summary>
+  <br>
+  <a href="https://samiunnafis.github.io">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamiunNafis&show_icons=true&include_all_commits=true&&count_private=true">
 </a>
-<a href="https://SamiunNafis.github.io">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&layout=compact&include_all_commits=true&&count_private=true&langs_count=20">
+</details> 
+
+<details>
+  <summary>Most Used Languages</summary>
+  <br>
+  <a href="https://samiunnafis.github.io">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&layout=compact&include_all_commits=true&&count_private=true&langs_count=20">
 </a>
-<a href="https://SamiunNafis.github.io">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiunNafis">
+</details> 
+  
+<details>
+  <summary>Streak Stats</summary>
+  <br>
+  <a href="https://samiunnafis.github.io">
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SamiunNafis">
 </a>
-</p>
+</details> 
+  </p>
