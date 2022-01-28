@@ -2,7 +2,7 @@
 <a href="https://samiunnafis.github.io">
   <img alt="Detective Conan" src="https://tenor.com/view/comics-thinking-contemplate-hmm-gif-7761687.gif" /> 
   </a> 
-  <h2 align="center">Kudo-kun!</h2>
+  <h3 align="center">Kudo-kun!</h3>
 </p>
 
 <p align="center">
@@ -50,3 +50,12 @@
 </a>
 </details> 
   </p>
+  
+  <p>
+
+📜 **Contributions**
+  
+<a href="https://samiunnafis.github.io">
+<img alt="Contributions" src="https://activity-graph.herokuapp.com/graph?username=samiunnafis&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true">
+</a>
+</p>
