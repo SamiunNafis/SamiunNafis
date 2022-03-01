@@ -1,0 +1,42 @@
+{
+  "bin": {
+    "samiunnafis": "me.js"
+  },
+  "name": "samiunnafis",
+  "version": "1.0.0",
+  "description": "FrontEnd Engineer",
+  "main": "me.js",
+  "scripts": {
+    "test": "node me.js",
+    "pub": "npm version major & npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamiunNafis/SamiunNafis.git"
+  },
+  "keywords": [
+    "Samiun Nafis",
+    "samiunnafis",
+    "frontend engineer",
+    "webvium vpn",
+    "Me, I and Myselft",
+    "samiunnafis.github.io"
+  ],
+  "author": "Samiun Nafis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamiunNafis/SamiunNafis/issues"
+  },
+  "homepage": "https://github.com/SamiunNafis/SamiunNafis#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.6.1",
+    "inquirer": "^7.3.3",
+    "open": "^7.4.2",
+    "ora": "^5.4.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
