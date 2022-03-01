@@ -30,17 +30,34 @@
   <summary>Github Stats</summary>
   <br>
   <a href="https://samiunnafis.github.io">
-  <img alt="Github Stats" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/stats.svg">
-</a>
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=samiunnafis&show_icons=true&count_private=true">
+</a>  
+  
 </details> 
-
+  
+  <details>
+  <summary>Github Stats with Private Contributions</summary>
+  <br>
+ <a href="https://samiunnafis.github.io">
+<img alt="Github Stats with Private Contributions" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/overview.svg">
+</a>
+</details>
+  
 <details>
   <summary>Most Used Languages</summary>
   <br>
-  <a href="https://samiunnafis.github.io">
-  <img alt="Most Used Languages" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/languages.svg">
+ <a href="https://samiunnafis.github.io">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiunnafis&layout=compact&include_all_commits=true&&count_private=true&langs_count=20">
 </a>
-</details> 
+</details>
+
+ <details>
+  <summary>Most Used Languages by File Size</summary>
+  <br>
+ <a href="https://samiunnafis.github.io">
+<img alt="Most Used Languages by File Size" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/languages.svg">
+</a>
+</details>
   
 <details>
   <summary>Streak Stats</summary>
