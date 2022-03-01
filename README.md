@@ -30,7 +30,7 @@
   <summary>Github Stats</summary>
   <br>
   <a href="https://samiunnafis.github.io">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamiunNafis&show_icons=true&include_all_commits=true&&count_private=true">
+  <img alt="Github Stats" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/stats.svg">
 </a>
 </details> 
 
@@ -38,7 +38,7 @@
   <summary>Most Used Languages</summary>
   <br>
   <a href="https://samiunnafis.github.io">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&layout=compact&include_all_commits=true&&count_private=true&langs_count=20">
+  <img alt="Most Used Languages" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/languages.svg">
 </a>
 </details> 
   
