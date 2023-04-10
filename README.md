@@ -18,6 +18,16 @@ npx samiunnafis
 
 
 <p>
+
+
+  <p>
+
+📜 **Contributions**
+  
+<a href="https://samiunnafis.github.io">
+<img alt="Contributions" src="https://awesome-github-stats.azurewebsites.net/user-stats/SamiunNafis?theme=dracula&cardType=level-alternate">
+</a>
+</p>
   
 🏆 **Github Trophy**
   
@@ -74,11 +84,3 @@ npx samiunnafis
 </details> 
   </p>
   
-  <p>
-
-📜 **Contributions**
-  
-<a href="https://samiunnafis.github.io">
-<img alt="Contributions" src="https://activity-graph.herokuapp.com/graph?username=samiunnafis&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true">
-</a>
-</p>
