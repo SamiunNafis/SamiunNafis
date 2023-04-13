@@ -4,83 +4,38 @@
   </a> 
   <h3 align="center">Kudo-kun!</h3>
 </p>
+<br>
 
-<p align="center">
-<a href="https://SamiunNafis.github.io">
-    <img alt="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=SamiunNafis"/> 
-  </a>  
-</p>
-
-
+[![](https://visitcount.itsvg.in/api?id=SamiunNafis&icon=1&color=12)](https://visitcount.itsvg.in)
+ 
 ~~~
 npx samiunnafis
 ~~~
 
 
-<p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samiunnafis0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiunnafis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiunnafis) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/samiunnafis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11634007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samiunnafis) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamiunNafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamiunNafis&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SamiunNafis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-📜 **Contributions**
-  
-<a href="https://samiunnafis.github.io">
-<img alt="Contributions" src="https://awesome-github-stats.azurewebsites.net/user-stats/SamiunNafis?theme=dracula&cardType=level-alternate">
-</a>
-</p>
-  
-🏆 **Github Trophy**
-  
-<a href="https://SamiunNafis.github.io">
-<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=SamiunNafis">
-</a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SamiunNafis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-📊 **More Stats**
-  
-  
-<details>
-  <summary>Github Stats</summary>
-  <br>
-  <a href="https://samiunnafis.github.io">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=samiunnafis&show_icons=true&count_private=true">
-</a>  
-  
-</details> 
-  
-  <details>
-  <summary>Github Stats with Private Contributions</summary>
-  <br>
- <a href="https://samiunnafis.github.io">
-<img alt="Github Stats with Private Contributions" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/overview.svg">
-</a>
-</details>
-  
-<details>
-  <summary>Most Used Languages</summary>
-  <br>
- <a href="https://samiunnafis.github.io">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiunnafis&layout=compact&include_all_commits=true&&count_private=true&langs_count=20">
-</a>
-</details>
+---
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/samiunnafis) 
 
- <details>
-  <summary>Most Used Languages by File Size</summary>
-  <br>
- <a href="https://samiunnafis.github.io">
-<img alt="Most Used Languages by File Size" src="https://github.com/SamiunNafis/github-stats/blob/master/generated/languages.svg">
-</a>
-</details>
-  
-<details>
-  <summary>Streak Stats</summary>
-  <br>
-  <a href="https://samiunnafis.github.io">
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SamiunNafis">
-</a>
-</details> 
-  </p>
-  
