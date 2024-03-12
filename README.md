@@ -7,7 +7,7 @@
   
 
 <div  align="center">
-
+<p>Profile views:</p>
 <img  src="https://profile-counter.glitch.me/samiunnafis/count.svg?"  />
 
 </div>
