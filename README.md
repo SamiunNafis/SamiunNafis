@@ -1,41 +1,214 @@
-<p align="center">
-<a href="https://samiunnafis.github.io">
-  <img alt="Detective Conan" src="https://tenor.com/view/comics-thinking-contemplate-hmm-gif-7761687.gif" /> 
-  </a> 
-  <h3 align="center">Kudo-kun!</h3>
-</p>
-<br>
+<h4  align="center">Hi 👋! My name is Samiun and I'm a frontend developer, from Bangladesh</h4>
 
-[![](https://visitcount.itsvg.in/api?id=SamiunNafis&icon=1&color=12)](https://visitcount.itsvg.in)
- 
-~~~
-npx samiunnafis
-~~~
+  
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samiunnafis0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiunnafis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiunnafis) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/samiunnafis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11634007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samiunnafis) 
+  
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamiunNafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamiunNafis&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunNafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div  align="center">
 
-## 🏆 GitHub Trophies
+<img  src="https://profile-counter.glitch.me/samiunnafis/count.svg?"  />
+
+</div>
+
+  
+
+###
+
+  
+
+<div  align="center">
+
+<img  src="https://streak-stats.demolab.com?user=samiunnafis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  height="150"  alt="streak graph"  />
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samiunnafis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  height="150"  alt="languages graph"  />
+
+</div>
+
+  
+
+###
+
+  
+
+<div  align="left">
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30"  alt="javascript logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30"  alt="react logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="30"  alt="html5 logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="30"  alt="css3 logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"  height="30"  alt="godot logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  height="30"  alt="firebase logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  height="30"  alt="android logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  height="30"  alt="androidstudio logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  height="30"  alt="blender logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  height="30"  alt="bash logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  height="30"  alt="canva logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"  height="30"  alt="facebook logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="30"  alt="git logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="30"  alt="github logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="30"  alt="java logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  height="30"  alt="jquery logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30"  alt="linux logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="30"  alt="nodejs logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30"  alt="npm logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"  height="30"  alt="photoshop logo"  />
+
+<img  width="12"  />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="30"  alt="php logo"  />
+
+</div>
+
+  <div  align="left">
+  
 ![](https://github-profile-trophy.vercel.app/?username=SamiunNafis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SamiunNafis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+  
 
----
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/samiunnafis) 
+<div  align="left">
 
+<a  href="https://www.youtube.com/@SamiunNafis"  target="_blank">
+
+<img  src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="youtube logo"  />
+
+</a>
+
+<a  href="https://www.instagram.com/samiunnafis/"  target="_blank">
+
+<img  src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="instagram logo"  />
+
+</a>
+
+<a  href="mailto:luea099@gmail.com"  target="_blank">
+
+<img  src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="gmail logo"  />
+
+</a>
+
+<a  href="https://www.linkedin.com/in/samiunnafis"  target="_blank">
+
+<img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="linkedin logo"  />
+
+</a>
+
+<a  href="https://www.facebook.com/im.samiun"  target="_blank">
+
+<img  src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="facebook logo"  />
+
+</a>
+
+<img  src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="stackoverflow logo"  />
+
+</div>
+
+  
+
+###
+
+  
+
+<img  align="right"  height="150"  src="https://raw.githubusercontent.com/SamiunNafis/SamiunNafis.github.io/main/favicon.png"  />
+
+  
+
+###
+
+  
+
+<br  clear="both">
+
+  
+
+<img  src="https://raw.githubusercontent.com/samiunnafis/samiunnafis/output/snake.svg"  alt="Snake animation"  />
+
+  
+
+###
+
+  
+
+<h5  align="left">DONATE ME:</h5>
+
+  
+
+###
+
+  
+
+<div  align="left">
+
+<a  href="https://ko-fi.com/samiunnafis"  target="_blank">
+
+<img  src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge"  height="40"  alt="ko-fi logo"  />
+
+</a>
+
+</div>
+
+  
+
+###
+###
