@@ -186,7 +186,7 @@
 
 <img  src="/output/snake.svg"  alt="Snake animation"  />
 
-  
+<iframe src="/output/snake.svg">
 
 ###
 
