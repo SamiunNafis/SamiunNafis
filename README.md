@@ -20,7 +20,7 @@
 
 <div  align="center">
 
-<img  src="https://streak-stats.demolab.com?user=samiunnafis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  height="150"  alt="streak graph"  />
+<img src="/output/streak.svg"  alt="Streak animation"  />
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamiunNafis&theme=dark&hide_border=true&border_radius=5&background=45%2C2A5470%2C380036&fire=C33713&ring=378CE7&dates=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
 -->
