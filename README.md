@@ -20,7 +20,7 @@
 
 <div  align="center">
 
-<img src="/output/streak.svg"  alt="Streak animation"  />
+<!-- <img src="/output/streak.svg"  alt="Streak animation"  /> -->
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamiunNafis&theme=dark&hide_border=true&border_radius=5&background=45%2C2A5470%2C380036&fire=C33713&ring=378CE7&dates=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
 -->
@@ -168,18 +168,6 @@
 
   
 
-###
-
-  
-
-<img  align="right"  height="150"  src="https://raw.githubusercontent.com/SamiunNafis/SamiunNafis.github.io/main/favicon.png"  />
-
-  
-
-###
-
-  
-
 <br  clear="both">
 
   
@@ -205,10 +193,6 @@
 </a>
 
 </div>
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 
 ###
 ###
