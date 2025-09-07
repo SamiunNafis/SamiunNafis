@@ -1,4 +1,4 @@
-<h4  align="center">Hi 👋! My name is Samiun and I'm a frontend developer, from Bangladesh</h4>
+<h4  align="center">Hi! 👋 I'm Samiun Nafis, a fullstack developer, from Bangladesh</h4>
 
   
 
