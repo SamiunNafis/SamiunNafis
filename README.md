@@ -1,4 +1,4 @@
-<h4  align="center">Hi! 👋 I'm Samiun Nafis, a fullstack developer, from Bangladesh</h4>
+<h4  align="center">Hi! 👋 I'm Samiun Nafis, a fullstack developer from Bangladesh</h4>
 
   
 
@@ -7,8 +7,10 @@
   
 
 <div  align="center">
-<p>Profile views:</p>
-<img  src="https://profile-counter.glitch.me/samiunnafis/count.svg?"  />
+<!-- p>Profile views:</p>
+<img  src="https://profile-counter.glitch.me/samiunnafis/count.svg?"  /> -->
+
+![‌  Profile Visits  ‌](https://ghtb-counter.vercel.app/api/counter?username=SamiunNafis&label=%E2%80%8C%20%20Profile%20Visits%20%20%E2%80%8C&color=6366f1&labelColor=555555&labelBgColor=eeeeee&countColor=ffffff&style=for-the-badge)
 
 </div>
 
