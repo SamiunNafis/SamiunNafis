@@ -25,10 +25,10 @@
 <!-- <img src="/output/streak.svg"  alt="Streak animation"  /> -->
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamiunNafis&theme=dark&hide_border=true&border_radius=5&background=45%2C2A5470%2C380036&fire=C33713&ring=378CE7&dates=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
--->
+
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samiunnafis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  height="150"  alt="languages graph"  />
 
-</div>
+</div>-->
 
   
 
@@ -178,7 +178,7 @@
 
 ###
 
-<h5  align="left">DONATE ME:</h5>
+<h5  align="left">SUPPORT ME:</h5>
 
   
 
